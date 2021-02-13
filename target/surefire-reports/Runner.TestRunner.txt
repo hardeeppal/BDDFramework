@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.272 s <<< FAILURE! - in Runner.TestRunner
+initializationError(Runner.TestRunner)  Time elapsed: 0.005 s  <<< ERROR!
+cucumber.runtime.DuplicateStepDefinitionException: Duplicate step definitions in stepDefinitions.LoginStepDefinition.user_already_on_login_page() in file:/Users/hardeepkainth/Desktop/DesktopFiles/FreeCRMBDDFramework/target/classes/ and stepDefinitions.DealsStepWithMapDefinition.user_already_on_login_page() in file:/Users/hardeepkainth/Desktop/DesktopFiles/FreeCRMBDDFramework/target/classes/
+

@@ -1,0 +1,68 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Free CRM Login Test Scenario",
+        "description": "",
+        "id": "free-crm,-login-feature;free-crm-login-test-scenario;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User is already on Login Page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "title of oddoo Website",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user enters \"kainthhardeep276@gmail.com\" and \"Automation123\"",
+            "match": {},
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "comments": [
+              {
+                "line": 7,
+                "value": "#    Then user clicks on login button"
+              }
+            ],
+            "line": 8,
+            "name": "user is on home page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM, Login Feature",
+    "description": "",
+    "id": "free-crm,-login-feature",
+    "keyword": "Feature",
+    "uri": "/Users/hardeepkainth/Desktop/FreeCRMBDDFramework/src/main/java/Features/login.feature"
+  }
+]
